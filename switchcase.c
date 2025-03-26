@@ -1,6 +1,9 @@
 switch(branch)
 	case 1:
 	printf("btech branch");
+
+         printf("btech branch in test1");
+
 	break;
 	case 2:
 	printf("aiml branch");
