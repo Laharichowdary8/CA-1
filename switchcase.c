@@ -11,6 +11,7 @@ switch(branch)
         
 	case 3:
 	printf("mech branch");
+	printf("mec in test3");
 	break;
 	case 4:
 	printf("biotech branch");
